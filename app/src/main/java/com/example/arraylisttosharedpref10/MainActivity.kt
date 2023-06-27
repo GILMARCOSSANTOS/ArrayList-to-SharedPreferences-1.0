@@ -11,6 +11,8 @@ import java.lang.reflect.Type
 
 class MainActivity : AppCompatActivity() {
 
+    /* TEste 001 */
+
     private lateinit var etName: EditText
     private lateinit var btSave: Button
     private lateinit var tvSize: TextView
